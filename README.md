@@ -6,9 +6,6 @@
 5. ele terá um estilo claro
 
 
-
-
-
 -------------------Primeiros passos para se chegar no Software--------------------
 1. Criar as variaveis com usestate para o texto digitado, e o texto listado
 2. uma função para adicionar o texto
@@ -18,5 +15,8 @@ como parametro o texto escrito para ir para uma outra página
 5. adicionar e criar a outra página a mostrar o texto com o texto
 
 =======
-
-Agora falta adaptar para uma api rest para se conectar com mongodb e armazenar os valores escritos
+Falta:
+Adicionar uma api rest com mongodb
+reformular a base do código
+aplicar o backend
+adicionar funções de busca e filtro
