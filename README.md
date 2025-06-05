@@ -1,3 +1,5 @@
+Programa com Next.js para Criação e organização de textos
+
 ====================>>> o programa terá(de inicio)<<======================= 
 1. uma barra para digitar o texto
 2. um botão para armazená-los
